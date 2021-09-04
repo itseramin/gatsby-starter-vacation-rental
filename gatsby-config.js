@@ -1,4 +1,4 @@
-const SITE_URL = `https://yourwebsite.com`
+const SITE_URL = `https://itseramin.github.io/gatsby-starter-vacation-rental`
 
 module.exports = {
   flags: {
