@@ -1,0 +1,19 @@
+body {
+  background-color: var(--bs-dark);
+  color: white;
+}
+
+.gatsby-image-wrapper {
+  position: initial !important;
+}
+
+@media (min-width: 2560px) {
+  html {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width: 3840px) {
+  html {
+    font-size: 2.5rem;
+  }
+}
