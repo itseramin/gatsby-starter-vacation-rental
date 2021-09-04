@@ -52,10 +52,6 @@ const Container = styled.div`
   &::-webkit-scrollbar {
     display: none; /* Chrome, Safari and Opera */
   }
-
-  scroll-snap-type: mandatory;
-  scroll-snap-points-y: repeat(100vh);
-  scroll-snap-type: y mandatory;
 `
 
 const SectionSlogan = styled.section.attrs({
@@ -63,7 +59,6 @@ const SectionSlogan = styled.section.attrs({
     "align-items-center d-flex flex-column justify-content-center position-relative",
 })`
   height: 66vh;
-  scroll-snap-align: start;
 `
 
 const Slogan = styled.h1``

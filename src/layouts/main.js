@@ -23,7 +23,7 @@ export default function Layout({ children }) {
 }
 
 const Body = styled(props => <Div100vh {...props} />).attrs({
-  className: "d-flex flex-column min-vh-100",
+  className: "d-flex flex-column",
 })``
 
 const Main = styled.main.attrs({
