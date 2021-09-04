@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://itseramin.github.io/sitemap/sitemap-index.xml
+Sitemap: https://itseramin.github.io/gatsby-starter-vacation-rental/sitemap/sitemap-index.xml
 Host: https://itseramin.github.io
