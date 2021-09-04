@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contact-js",
+    "path": "/de/contact/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"contact","data":"{\"page\":\"Kontakt\"}","language":"de"}},{"node":{"ns":"header","data":"{\"title\":\"Ferienwohnung\",\"descp\":\"Ferienwohnung für billig. Schauen Sie rein und Check-in!\",\"home\":\"Home\",\"gallery\":\"Galerie\",\"info\":\"Information\",\"contact\":\"Kontakt\"}","language":"de"}}]},"siteMetadata":{"siteMetadata":{"contacts":{"tel":"tel:+0123456789","facebook":"","email":"mailto:youremail@mail.com?subject=[Vacation%20Rental]"}}}},"pageContext":{"language":"de","i18n":{"language":"de","languages":["de","en"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/contact/","path":"de/contact/"}}},
+    "staticQueryHashes": ["3550976835","4120857776"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contact-js",
+    "path": "/contact/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"contact","data":"{\"page\":\"Contact\"}","language":"en"}},{"node":{"ns":"header","data":"{\"title\":\"Vacation Rental\",\"descp\":\"Vacation rental for cheap. Check it out and check-in!\",\"home\":\"Home\",\"gallery\":\"Gallery\",\"info\":\"Information\",\"contact\":\"Contact\"}","language":"en"}}]},"siteMetadata":{"siteMetadata":{"contacts":{"tel":"tel:+0123456789","facebook":"","email":"mailto:youremail@mail.com?subject=[Vacation%20Rental]"}}}},"pageContext":{"language":"en","i18n":{"language":"en","languages":["de","en"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/contact/","path":"/contact/"}}},
+    "staticQueryHashes": ["3550976835","4120857776"]}

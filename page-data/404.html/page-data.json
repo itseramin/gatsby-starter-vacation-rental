@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-404-js",
+    "path": "/404.html",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"404","data":"{\"page\":\"404\",\"ret\":\"Return To Home!\"}","language":"en"}},{"node":{"ns":"header","data":"{\"title\":\"Vacation Rental\",\"descp\":\"Vacation rental for cheap. Check it out and check-in!\",\"home\":\"Home\",\"gallery\":\"Gallery\",\"info\":\"Information\",\"contact\":\"Contact\"}","language":"en"}}]}},"pageContext":{"language":"en","i18n":{"language":"en","languages":["de","en"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/404/","path":"/404/"}}},
+    "staticQueryHashes": ["3550976835","4120857776"]}

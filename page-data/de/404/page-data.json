@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-404-js",
+    "path": "/de/404/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"404","data":"{\"page\":\"404\",\"ret\":\"Zurück zur Home!\"}","language":"de"}},{"node":{"ns":"header","data":"{\"title\":\"Ferienwohnung\",\"descp\":\"Ferienwohnung für billig. Schauen Sie rein und Check-in!\",\"home\":\"Home\",\"gallery\":\"Galerie\",\"info\":\"Information\",\"contact\":\"Kontakt\"}","language":"de"}}]}},"pageContext":{"matchPath":"/de/*","language":"de","i18n":{"language":"de","languages":["de","en"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/404/","path":"de/404/"}}},
+    "staticQueryHashes": ["3550976835","4120857776"],
+    "matchPath": "/de/*"}
