@@ -1,8 +1,8 @@
-![Preview](preview.webp)
-
 <h1 align="center">
   Gatsby Starter Vacation Rental
 </h1>
+
+![Preview](preview.webp)
 
 ## 🎉 Installation
 
