@@ -35,7 +35,7 @@ export default function Home() {
 }
 
 const Container = styled.div`
-  height: 66vh;
+  height: 50vh;
   mask-image: linear-gradient(
     to top,
     transparent 0%,
@@ -58,7 +58,7 @@ const SectionSlogan = styled.section.attrs({
   className:
     "align-items-center d-flex flex-column justify-content-center position-relative",
 })`
-  height: 66vh;
+  height: 100%;
 `
 
 const Slogan = styled.h1``
