@@ -9,6 +9,7 @@ module.exports = {
     PARALLEL_SOURCING: true,
     PRESERVE_FILE_DOWNLOAD_CACHE: false,
   },
+  pathPrefix: "/gatsby-starter-vacation-rental",
   siteMetadata: {
     siteUrl: `${SITE_URL}`,
     SEO: {
