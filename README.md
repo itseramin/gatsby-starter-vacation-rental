@@ -47,7 +47,7 @@ gatsby develop
 
 Your website is running on `localhost:8000`!
 
-If You have still any issues or questions about installation please read up on [Gatsby](https://www.gatsbyjs.com/)...
+If You still have any issues or questions about the installation please read up on [Gatsby](https://www.gatsbyjs.com/)...
 
 ## ✨ Features
 
