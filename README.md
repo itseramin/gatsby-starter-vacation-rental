@@ -51,9 +51,23 @@ If You still have any issues or questions about the installation please read up 
 
 ## ✨ Features
 
+### Basic ones
+
+- 4+1 pages (Home, Gallery, Information, Contact + 404).
+- Easily customizable header and footer components.
+- Background video (if You want to use a Vimeo video as background check out [this](https://gist.github.com/itseramin/f093e9fdd831ef153a5aafdf5163d9ac) Gist.)
+-
+
 ### SEO
 
-Basic SEO functionality implemented with [gatsby-plugin-react-helmet](https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/) and [gatsby-plugin-robots-txt](https://www.gatsbyjs.com/plugins/gatsby-plugin-robots-txt/), internationalization implemented with [i18next](https://www.i18next.com/) and other cool basic stuff needed to make this wonderful starter.
+Plugins used to automate the process
+
+- [gatsby-plugin-manifest](https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest/)
+- [gatsby-plugin-react-helmet](https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/)
+- [gatsby-plugin-robots-txt](https://www.gatsbyjs.com/plugins/gatsby-plugin-robots-txt/)
+- [gatsby-plugin-sitemap](https://www.gatsbyjs.com/plugins/gatsby-plugin-sitemap/)
+
+### Internationalization
 
 🚧🚧🚧
 
